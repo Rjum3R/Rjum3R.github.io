@@ -1,0 +1,66 @@
+.container {
+    width: 100%;
+    max-width: 1024px;
+    padding: 0 15px;
+    margin:0 auto;
+}
+
+.resume{
+    color:rgb(0, 0, 0);
+    font-size: 48;
+}
+body {
+    background-size: 100%;
+    background-image: url("back.jpg");
+   
+}
+.photo
+{
+    width: 30%;
+    height: 100%;
+    float: center;
+}   
+.bottomhalf{
+    width: 50%;
+    height: 20%;
+    
+}
+.font1{
+    font-size: 50px;
+}
+.font2{
+    font-size: 35px;
+}
+.font3{
+    font-size: 25px;
+}
+.skill{
+    font-size: 20px;
+}
+.left{
+    width:38%;
+    height:5%;
+    float:right;
+    
+}
+.right{
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    right: 100px;
+    top: 100px;
+    
+}
+.button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    margin: 20px 50px;
+    font-size: 30px;
+    text-align-last: center;
+    border-radius: 100%;
+}
+.contacts{
+    font-size: 50px;
+    font-style: verdana bold italic;
+}
